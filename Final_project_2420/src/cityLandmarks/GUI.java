@@ -16,7 +16,7 @@ public class GUI {
 		
 		Map map = new Map(st);
 		
-		System.out.println(map.getVs());
+		System.out.println("verticies * 2: " + map.getVs() + map.getVs());
 
 	}
 
